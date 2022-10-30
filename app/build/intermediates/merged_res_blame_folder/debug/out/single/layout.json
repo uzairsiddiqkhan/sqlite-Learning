@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.booklibrarysqlite.app-mergeDebugResources-24:/layout/activity_add.xml",
+        "source": "com.example.booklibrarysqlite.app-main-27:/layout/activity_add.xml"
+    },
+    {
+        "merged": "com.example.booklibrarysqlite.app-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.example.booklibrarysqlite.app-main-27:/layout/activity_main.xml"
+    }
+]
